@@ -1,0 +1,19 @@
+{
+  "name": "photoproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlchen214/photoproj.git"
+  },
+  "author": "carl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlchen214/photoproj/issues"
+  },
+  "homepage": "https://github.com/carlchen214/photoproj#readme"
+}
