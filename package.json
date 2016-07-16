@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/carlchen214/photoproj/issues"
   },
-  "homepage": "https://github.com/carlchen214/photoproj#readme"
+  "homepage": "https://github.com/carlchen214/photoproj#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.4",
+    "react": "^15.2.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-react": "^6.11.1"
+  }
 }
